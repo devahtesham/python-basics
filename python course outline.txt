@@ -1,0 +1,30 @@
+1) print()
+	.sep parameter, end parameter
+2) string & accessing string value
+3) string concatenation
+4) if statement
+5) comments
+6) list
+    .len()
+
+    for adding values in a list:
+	.append(element)   		// at a time only one value is added
+        .insert(indexNo, element)	// at a time only one value is added
+        .extend([list of elements])    // final output will also be a list 
+	.count()
+	.index()
+	.copy()
+	    a) pass by value 		// list2 = list1
+	    b) pass by reference	   list 2 = list1.copy()
+
+    delete element from list
+	.del keyword			// requires index number
+	.remoove(element)
+	.pop()				// we can store & view the pop value			.pop(indexNumber)
+    .sort()				// sort in original array
+    .sort(reverse=True)
+    .reverse()				// directly reverse without sorting
+    
+    Accessing value in a list
+    listname[indexNo] 			// return value against this index 
+    "finding_value" in listname 	// return True or False
