@@ -1,8 +1,14 @@
+=================== PYTHON PART ONE =====================
 1) print()
 	.sep parameter, end parameter
 2) string & accessing string value
 3) string concatenation
+2) changing case 
+	. string.lower()
+	. string.upper()
+	. string.title()
 4) if statement
+	. nested if
 5) comments
 6) list
     .len()
@@ -28,3 +34,23 @@
     Accessing value in a list
     listname[indexNo] 			// return value against this index 
     "finding_value" in listname 	// return True or False
+    
+ 7)Tuples
+ 
+ =================== PYTHON PART TWO =====================
+ 1) loops
+ 	. for & nested for
+	. while
+	. do while
+	. break & continue keywords
+
+2) Dictionaries
+
+=================== PYTHON PART THREE =====================
+1) Functions
+2) classes
+3) Modules
+	. maths
+
+
+	
